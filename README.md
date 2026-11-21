@@ -1,1 +1,1 @@
-# university-attendance.
+# university-attendance
